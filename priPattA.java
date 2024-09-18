@@ -1,4 +1,4 @@
-public class priPatta {
+public class priPattA {
     public static void main(String[] args){
         int num2 = 1;
         for (int i = 0; i < 5; i++) {
